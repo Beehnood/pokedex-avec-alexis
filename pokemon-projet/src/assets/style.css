@@ -1,0 +1,67 @@
+body {
+    background-color: #5f0224;
+}
+
+img[role="pokemon"] {
+  width: 180px;
+  height: 200px;
+}
+
+.glassy-badge {
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0 2px 0 rgba(31, 38, 135, 0.3);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 0 0.5rem;
+}
+
+.electric {
+  background-color: #E8E256;
+}
+.grass {
+  background-color: #A8FF7E;
+}
+.fire {
+  background-color: #FFA34F;
+}
+.water {
+  background-color: #3888FF;
+}
+.bug {
+  background-color: #973C3C;
+}
+.rock{
+  background-color: #756F6F;
+}
+.psychic{
+  background-color: #8442D8;
+}
+.poison{
+  background-color: #C182D7;
+}
+.ice{
+  background-color: #abd8f7;
+}
+.dark{
+  background-color: #254543;
+}
+.ground{
+  background-color: #695C3A;
+}
+.dragon{
+  background-color: #7E5E0A;
+}
+.fighting{
+  background-color: #b98604;
+}
+.ghost{
+  background-color: #BF38FF;
+}
+.steel{
+  background-color:#BABABA;
+}
+.fairy{
+  background-color:#FF5BD1;
+}
